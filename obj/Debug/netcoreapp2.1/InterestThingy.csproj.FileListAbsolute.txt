@@ -1,0 +1,11 @@
+/Users/Xander/Desktop/CIDM3312/inClass/InterestThingy/bin/Debug/netcoreapp2.1/InterestThingy.deps.json
+/Users/Xander/Desktop/CIDM3312/inClass/InterestThingy/bin/Debug/netcoreapp2.1/InterestThingy.runtimeconfig.json
+/Users/Xander/Desktop/CIDM3312/inClass/InterestThingy/bin/Debug/netcoreapp2.1/InterestThingy.runtimeconfig.dev.json
+/Users/Xander/Desktop/CIDM3312/inClass/InterestThingy/bin/Debug/netcoreapp2.1/InterestThingy.dll
+/Users/Xander/Desktop/CIDM3312/inClass/InterestThingy/bin/Debug/netcoreapp2.1/InterestThingy.pdb
+/Users/Xander/Desktop/CIDM3312/inClass/InterestThingy/obj/Debug/netcoreapp2.1/InterestThingy.csprojAssemblyReference.cache
+/Users/Xander/Desktop/CIDM3312/inClass/InterestThingy/obj/Debug/netcoreapp2.1/InterestThingy.csproj.CoreCompileInputs.cache
+/Users/Xander/Desktop/CIDM3312/inClass/InterestThingy/obj/Debug/netcoreapp2.1/InterestThingy.AssemblyInfoInputs.cache
+/Users/Xander/Desktop/CIDM3312/inClass/InterestThingy/obj/Debug/netcoreapp2.1/InterestThingy.AssemblyInfo.cs
+/Users/Xander/Desktop/CIDM3312/inClass/InterestThingy/obj/Debug/netcoreapp2.1/InterestThingy.dll
+/Users/Xander/Desktop/CIDM3312/inClass/InterestThingy/obj/Debug/netcoreapp2.1/InterestThingy.pdb
